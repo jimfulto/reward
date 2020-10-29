@@ -1,6 +1,6 @@
 # reward
 Steps to run the project
 
-Download or clone the repository from GitHub
-Run npm install
-Run npm start
+1.Download or clone the repository from GitHub
+2.Run npm install
+3.Run npm start
